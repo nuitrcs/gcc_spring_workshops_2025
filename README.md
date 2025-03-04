@@ -27,14 +27,13 @@ Prerequisites: This workshop requires a laptop with a terminal application insta
 
 Registration: <https://www.eventbrite.com/e/gcc-peak-calling-with-macs2-chicago-tickets-1245401281759?aff=oddtdtcreator>
 
-## Scaling up for high-throughput computing
+## [Scaling up for high-throughput computing](https://github.com/nuitrcs/high_throughput_computing)
 
 Computational genomics workflows are most useful when they handle many samples. This workshop will introduce bash variables and job arrays to help you scale up as efficiently as possible with the SLURM scheduling software on Quest. We will interactively work through converting scripts that analyze one sample to analyze any number of samples, so you can launch one script that will handle all your sequencing files.
 
 Prerequisites: This workshop requires a laptop with a terminal application installed and basic knowledge of working from the command line, or attendance at the ‘Command Line Introduction’ workshop. A basic knowledge of running jobs on GCC is recommended but not required.
 
 Registration: <https://www.eventbrite.com/e/gcc-scaling-up-for-high-throughput-computing-chicago-tickets-1245402896589?aff=oddtdtcreator>
-Materials:
 
 ## Virtual environments for single-cell analysis
 
@@ -43,7 +42,6 @@ The number of software packages designed for single-cell RNA-seq analysis has in
 Prerequisites: This workshop requires a laptop with a terminal application installed and basic knowledge of working from the command line, or attendance at the ‘Command Line Introduction’ workshop.
 
 Registration: <https://www.eventbrite.com/e/gcc-virtual-environments-for-single-cell-analysis-chicago-tickets-1245404862469?aff=oddtdtcreator>
-Materials:
 
 ## Spatial transcriptomics with Scanpy
 
@@ -52,6 +50,5 @@ Scanpy (single-cell analysis in Python) is a toolkit for single-cell gene expres
 Prerequisites: This workshop requires a laptop. Attendance at the previous workshop, ‘Virtual environments for single-cell analysis’, is recommended but not required.
 
 Registration: <https://www.eventbrite.com/e/gcc-spatial-transcriptomics-with-scanpy-chicago-tickets-1245404872499?aff=oddtdtcreator>
-Materials:
 
 
