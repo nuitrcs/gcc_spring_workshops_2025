@@ -35,7 +35,7 @@ Prerequisites: This workshop requires a laptop with a terminal application insta
 
 Registration: <https://www.eventbrite.com/e/gcc-scaling-up-for-high-throughput-computing-chicago-tickets-1245402896589?aff=oddtdtcreator>
 
-## Virtual environments for single-cell analysis
+## [Virtual environments for single-cell analysis](https://github.com/nuitrcs/virtual_environments_for_single_cell_analysis)
 
 The number of software packages designed for single-cell RNA-seq analysis has increased dramatically since the advent of both the sequencing technology and more widely available GPUs. Setting up an environment with the correct software to use the GPUs on Quest requires attention to specific versions. In this workshop, we will walk through setting up a software environment with mamba that can be used on our GPUs from both the command line and from JupyterLab via Quest OnDemand, and we will discuss software version control more generally. Attendees will leave with a software environment that works for the ‘Spatial transcriptomics with Scanpy’ workshop the following week.
 
