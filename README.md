@@ -10,7 +10,6 @@ Working from the command line gives computational biologists access to many anal
 Prerequisites: This workshop assumes no prior knowledge of these tools but requires a laptop with a terminal application installed. Installation instructions will be emailed upon registration. This workshop is a prerequisite for many of the other GCC workshops this quarter.
 
 Registration: <https://www.eventbrite.com/e/gcc-command-line-introduction-chicago-tickets-1245387119399?aff=oddtdtcreator>
-Materials:
 
 ## [STAR RNA-seq aligner](https://github.com/nuitrcs/star_aligner_workshop)
 
@@ -19,16 +18,14 @@ Read alignment or mapping is a computational process to determine where in the r
 Prerequisites: This workshop assumes no prior knowledge related to RNA-seq data processing but requires a laptop with a terminal application installed , and expects familiarity with working from the command line or attendance at the ‘Command Line Introduction’ workshop.
 
 Registration: <https://www.eventbrite.com/e/gcc-star-rna-seq-aligner-in-person-tickets-1245400579659?aff=oddtdtcreator>
-Materials:
 
-## Peak calling with MACS2
+## [Peak calling with MACS2](https://github.com/nuitrcs/MACS2_workshop)
 
 Peak calling is a computational method used to identify areas in the genome that have been enriched with aligned reads in ChIPseq and ATACseq datasets. This workshop will introduce Model-based Analysis of ChIP-Seq (MACS2), one of the commonly used peak callers, and demonstrate how to call peaks from aligned reads on Quest. We will introduce some basic MACS2 parameters and interactively work through each step of peak calling using an example dataset.
 
 Prerequisites: This workshop requires a laptop with a terminal application installed and basic knowledge of working from the command line, or attendance at the ‘Command Line Introduction’ workshop.
 
 Registration: <https://www.eventbrite.com/e/gcc-peak-calling-with-macs2-chicago-tickets-1245401281759?aff=oddtdtcreator>
-Materials:
 
 ## Scaling up for high-throughput computing
 
