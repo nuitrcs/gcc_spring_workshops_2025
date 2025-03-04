@@ -12,7 +12,7 @@ Prerequisites: This workshop assumes no prior knowledge of these tools but requi
 Registration: <https://www.eventbrite.com/e/gcc-command-line-introduction-chicago-tickets-1245387119399?aff=oddtdtcreator>
 Materials:
 
-## STAR RNA-seq aligner
+## [STAR RNA-seq aligner](https://github.com/nuitrcs/star_aligner_workshop)
 
 Read alignment or mapping is a computational process to determine where in the reference genome the short RNA reads originated from. This workshop will introduce how to perform read alignment using STAR (Spliced Transcripts Alignment to a Reference), a splice-aware aligner designed to specifically tackle many challenges involved in RNA-seq data mapping. We will introduce STAR’s alignment strategy and interactively work through each step of alignment using an example dataset. We will also discuss how STAR is incorporated in many Nextflow pipelines (for example nf-core/rnaseq).
 
