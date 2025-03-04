@@ -3,7 +3,7 @@ This is a landing page for Genomics Compute Cluster workshops for spring quarter
 
 This workshop series is designed to cover topics of interest to the research community that uses the Genomics Compute Cluster (GCC) at Northwestern. Most workshops can be attended ad hoc, but some of the content builds on itself from week-to-week, and some require attendance at the first workshop of the series, ‘Command line introduction’, so please read the description of each. These workshops will be held in-person on the Chicago campus. To participate fully, you will need to bring a laptop with you to each workshop.
 
-## Command line introduction
+## [Command line introduction](https://github.com/nuitrcs/gcc_command_line)
 
 Working from the command line gives computational biologists access to many analysis tools and enables the creation of reproducible scripts. This workshop will introduce commands for file system navigation, teach attendees how to create and edit scripts from the terminal with the text editor nano, and introduce utilities for interacting with our high-performance computer cluster, Quest.
 
