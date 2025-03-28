@@ -43,7 +43,7 @@ Prerequisites: This workshop requires a laptop with a terminal application insta
 
 Registration: <https://www.eventbrite.com/e/gcc-virtual-environments-for-single-cell-analysis-chicago-tickets-1245404862469?aff=oddtdtcreator>
 
-## Spatial transcriptomics with Scanpy
+## [Spatial transcriptomics with Scanpy](https://github.com/nuitrcs/spatial_transcriptomics)
 
 Scanpy (single-cell analysis in Python) is a toolkit for single-cell gene expression data analysis using the programming language Python. This workshop will cover a basic tutorial for the use of Scanpy and related packages for analysis and visualization of spatial single-cell gene expression data, with a focus on explaining data types, and how to find and adjust different parameters of the included functions.
 
